@@ -1,0 +1,4 @@
+Deep Learning: Customer churn modelling
+•	Build a multi-layer Artificial Neural Network using Keras library to solve the classification problem and identified the customers who are at the highest risk of leaving the Bank
+•	Applied Gradient descent, dropout regularization on the hidden layers, and Grid search CV for better accuracy
+
